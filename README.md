@@ -1,9 +1,8 @@
 # 🏥 Hospital Management System (HMS)
 
-A full-stack web application for managing hospital operations efficiently, built using:
+for managing hospital operations efficiently, built using:
 
-- 💻 **Frontend:** React (folder: `HMS-frontend`)
-- ⚙️ **Backend:** Java Spring Boot
+- ⚙️ **Backend:** Java 
 - 🗄️ **Database:** MySQL
 
  ## 🚀 Features
@@ -11,9 +10,8 @@ A full-stack web application for managing hospital operations efficiently, built
 ### 🧑‍⚕️ Admin / Staff Can:
 - Manage doctors, patients, appointments
 - View patient details and reports
-- Update or delete hospital records
+
 
 ### 👩‍⚕️ Doctors Can:
 - View their schedules
 - Access assigned patients
-- Write or update treatment details
